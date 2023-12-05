@@ -119,55 +119,73 @@ h1 {
 .bluebutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #45abea;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .purplebutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #9c72e4;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .greenbutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #64c0a9;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .orangebutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #f29e33;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .pinkbutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #d863a1;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 .olivebutton {
     display: inline-block;
     padding: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
     background-color: #b0c926;
-    border-radius: 15px;
+    border-radius: 12px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
 
 
