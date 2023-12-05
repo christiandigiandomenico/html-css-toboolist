@@ -9,15 +9,20 @@ body {
 }
 
 nav {
-    height: 75px;
+    height: 60px;
     background-color: white;
     margin-bottom: 50px;
+}
+
+#logo {
+    vertical-align: middle;
 }
 
 h1 {
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 35px;
+    vertical-align: middle;
 }
 
 #struttura-window {
@@ -97,25 +102,73 @@ h1 {
     color: #61bea6;
     border: 1px solid #61bea6;
     border-radius: 50%;
-    padding: 3px;
+    padding: 3px 7px;
     margin-right: 5px;
+    display: inline-block;
 }
 
 .errormark {
     color: #e8443b;
     border: 1px solid #e8443b;
     border-radius: 50%;
-    padding: 3px;
+    padding: 3px 7px;
     margin-right: 5px;
+    display: inline-block;
 }
 
 .bluebutton {
-    width: 75px;
-    height: 30px;
+    display: inline-block;
+    padding: 8px;
     background-color: #45abea;
-    border-radius: 10px;
+    border-radius: 15px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.purplebutton {
+    display: inline-block;
+    padding: 8px;
+    background-color: #9c72e4;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.greenbutton {
+    display: inline-block;
+    padding: 8px;
+    background-color: #64c0a9;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.orangebutton {
+    display: inline-block;
+    padding: 8px;
+    background-color: #f29e33;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pinkbutton {
+    display: inline-block;
+    padding: 8px;
+    background-color: #d863a1;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.olivebutton {
+    display: inline-block;
+    padding: 8px;
+    background-color: #b0c926;
+    border-radius: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 
 /* Fine sottolista oggetti*/
